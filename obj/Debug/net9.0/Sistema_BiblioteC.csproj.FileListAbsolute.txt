@@ -1,0 +1,17 @@
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\bin\Debug\net9.0\Sistema_BiblioteC.exe
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\bin\Debug\net9.0\Sistema_BiblioteC.deps.json
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\bin\Debug\net9.0\Sistema_BiblioteC.runtimeconfig.json
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\bin\Debug\net9.0\Sistema_BiblioteC.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\bin\Debug\net9.0\Sistema_BiblioteC.pdb
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.AssemblyInfoInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.AssemblyInfo.cs
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\refint\Sistema_BiblioteC.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.pdb
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.genruntimeconfig.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\ref\Sistema_BiblioteC.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_BiblioteC.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Sistema_BiblioteC\obj\Debug\net9.0\Sistema_.C1405D85.Up2Date
